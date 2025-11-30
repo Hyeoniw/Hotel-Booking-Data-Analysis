@@ -1,14 +1,19 @@
-#  酒店预订数据分析
+# 🏨 酒店预订数据分析
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Pandas](https://img.shields.io/badge/Pandas-数据分析-orange)
+![Plotly](https://img.shields.io/badge/Plotly-可视化-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 一个完整的数据分析项目，基于11.9万条酒店预订数据，运用Python进行数据清洗、探索性分析和交互式可视化，为酒店收益管理提供数据驱动的业务洞察。
 
-##  项目演示
+## 📊 项目演示
 
-### 交互式报告
-[取消率分析](取消率分析图表)
-[月度趋势](月度预订趋势图表)
+### 交互式报告截图
+![取消率分析](https://via.placeholder.com/800x400/3498db/ffffff?text=取消率分析图表)
+![月度趋势](https://via.placeholder.com/800x400/2ecc71/ffffff?text=月度预订趋势图表)
 
-###  关键发现
+### 📈 关键发现
 - **取消率**: 37.5% 的预订被取消，存在显著业务风险
 - **季节性**: 10月为旺季，预订量比1月高出 68%
 - **用户行为**: 提前180天以上预订的订单，取消率高达 62%
